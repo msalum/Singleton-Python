@@ -23,3 +23,11 @@ y.printLocation()
 
 z = SingleLocation()
 z.printLocation()
+
+# correct print out:
+
+# Location <__main__.SingleLocation object at 0x10bba3fd0>
+
+# Location <__main__.SingleLocation object at 0x10bba3fd0>
+
+# Location <__main__.SingleLocation object at 0x10bba3fd0>
